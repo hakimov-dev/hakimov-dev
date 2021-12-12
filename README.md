@@ -15,7 +15,8 @@
 
 
 # Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakimov-dev&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimov-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakimov-dev&show_icons=true&theme=radical) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimov-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
