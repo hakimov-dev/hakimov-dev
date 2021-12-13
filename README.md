@@ -1,23 +1,21 @@
 <!-- Header -->
 <p align="center">
+     <img src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/header.png">
   <a href="https://github.com/hakimov-dev" target="_blank" rel="noreferrer"><img width="100%" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/main-logo.png" alt="my banner"></a>
 </p>
 
 <!-- About me -->
-
 <h1 align="center">Hi 👋, I'm Muhammadamin.</h1>
-<div align="center" style="display:flex; align-items:center;">
-  <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="50%" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <h3 width="50%">I'm from Uzbekistan and I'm a Frontend (Vue js) programmer. Welcome to my GitHub page.</h3>
+<div float="left">
+   <img src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/developer.gif" width="45%"> 
+  <h3 width="45%">I'm from Uzbekistan and I'm a Frontend (Vue  js) programmer. Welcome to my GitHub page.</h3>
 </div>
 
 # My skills 
 <p align="center">
    <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/000000/external-webstorm-an-integrated-development-environment-for-javascript-logo-color-tal-revivo.png"/></a>
    <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/></a>
- <a href="https://www.w3schools.com/whatis/whatis_html.asp"><img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/></a>
- <a href="https://www.w3schools.com/Css/css_intro.asp"><img src="https://img.icons8.com/color/60/000000/css3.png"/><a>
- <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/></a>
+ <a href="https://www.w3schools.com/whatis/whatis_html.asp"><img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/></a><a href="https://www.w3schools.com/Css/css_intro.asp"><img src="https://img.icons8.com/color/60/000000/css3.png"/><a><a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/></a>
  <a href="https://daisyui.com/"><img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/60/000000/external-daisy-flowers-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/></a>
  <a href="https://sass-lang.com/"><img src="https://img.icons8.com/color/60/000000/sass-avatar.png"/></a>
  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/60/000000/javascript--v2.png"/></a>
