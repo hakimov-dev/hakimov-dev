@@ -1,14 +1,13 @@
 <!-- Header -->
 <p align="center">
-     <img src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/header.png">
+   <a href="https://github.com/hakimov-dev"><img src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/header.png"></a>
   <a href="https://github.com/hakimov-dev" target="_blank" rel="noreferrer"><img width="100%" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/main-logo.png" alt="my banner"></a>
 </p>
 
 <!-- About me -->
-<h1 align="center">Hi 👋, I'm Muhammadamin.</h1>
-<div float="left">
-   <img src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/developer.gif" width="45%"> 
-  <h3 width="45%">I'm from Uzbekistan and I'm a Frontend (Vue  js) programmer. Welcome to my GitHub page.</h3>
+<div align="center">
+     <h1>Hi 👋, I'm Muhammadamin.</h1>
+    <h3>I'm from Uzbekistan and I'm a Frontend (Vue  js) programmer. Welcome to my GitHub page.</h3>
 </div>
 
 # My skills 
