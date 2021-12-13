@@ -8,7 +8,6 @@
 <h1 align="center">Hi 👋, I'm Muhammadamin.</h1>
 <div align="center" style="display:flex; align-items:center;">
   <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="50%" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-   <br><br>
   <h3 width="50%">I'm from Uzbekistan and I'm a Frontend (Vue js) programmer. Welcome to my GitHub page.</h3>
 </div>
 
