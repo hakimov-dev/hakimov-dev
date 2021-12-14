@@ -33,7 +33,7 @@
 
 
 # Contact me
-[![Website](https://img.shields.io/badge/-website-090909?style=for-the-badge&logo=appveyor)](https://hakimov.netlify.app) [![Github](https://img.shields.io/badge/-gitHub-090909?style=for-the-badge&logo=gitHub)](https://github.com/hakimov-dev) [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/hakimov_dev) [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/hakimov_dev)
+ [![Github](https://img.shields.io/badge/-gitHub-090909?style=for-the-badge&logo=gitHub)](https://github.com/hakimov-dev) [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/hakimov_dev) [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/hakimov_dev)
 
   
 
