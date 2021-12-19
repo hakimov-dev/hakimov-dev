@@ -5,10 +5,10 @@
 </p>
 
 <!-- About me -->
-<div align="center">
-     <h1>Hi 👋, I'm Muhammadamin.</h1>
-    <h3>I'm from Uzbekistan and I'm a Frontend (Vue  js) programmer. Welcome to my GitHub page.</h3>
-</div>
+  # Hi 👋, I'm Muhammadamin.
+| <a ><h3>I'm from Uzbekistan and I'm a Frontend (Vue  js) programmer. Welcome to my GitHub page.</h3> </a> | <a href="https://github.com/hakimov-dev"><img align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/code.gif" /></a> |
+| ------------- | ------------- |
+
 
 # My skills 
 <p align="center">
