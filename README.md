@@ -6,7 +6,7 @@
 
 <!-- About me -->
   # Hi 👋, I'm Muhammadamin.
-| <a ><h3>I'm from Uzbekistan and I'm a Frontend (Vue  js) programmer. Welcome to my GitHub page.</h3> </a> | <a href="https://github.com/hakimov-dev"><img align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/code.gif" /></a> |
+| <a width="80%" href="https://github.com/hakimov-dev"><img width="120%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/code.gif" /> </a> | <a href="https://github.com/hakimov-dev"> <h3>I'm from Uzbekistan and I'm a Frontend (Vue  js) programmer. Welcome to my GitHub page.</h3></a> |
 | ------------- | ------------- |
 
 
@@ -42,4 +42,5 @@
 
 | <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hakimov-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/></a> | <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimov-dev&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
+  
 
