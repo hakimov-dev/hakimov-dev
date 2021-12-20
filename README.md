@@ -29,6 +29,7 @@
     <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/fluency/60/000000/node-js.png"/></a>
  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/60/000000/git.png"/></a>
  <a href="https://github.com/"><img src="https://img.icons8.com/stickers/60/000000/github.png"/></a>
+    <a href="https://github.com/hakimov-dev"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/></a>
 <p>
 
 
