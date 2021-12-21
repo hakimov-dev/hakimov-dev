@@ -1,11 +1,10 @@
 <!-- Header -->
 <p align="center">
-   <a href="https://github.com/hakimov-dev"><img src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/header.png"></a>
-  <a href="https://github.com/hakimov-dev" target="_blank" rel="noreferrer"><img width="100%" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/main-logo.png" alt="my banner"></a>
+   <a href="https://github.com/hakimov-dev"><img src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/hakimo-dav.jpeg"></a>
 </p>
 
 <!-- About me -->
-  # Hi 👋, I'm Muhammadamin.
+  # About me 
 | <a width="80%" href="https://github.com/hakimov-dev"><img width="120%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/code.gif" /> </a> | <a href="https://github.com/hakimov-dev"> <h3>I'm from Uzbekistan and I'm a Frontend (Vue  js) programmer. Welcome to my GitHub page.</h3></a> |
 | ------------- | ------------- |
 
