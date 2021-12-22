@@ -11,12 +11,12 @@
 
 
 
-<h1 >My skills  <a width="6%" href="https://github.com/hakimov-dev"><img height="40px" width="4%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/dev.png" /> </h1>![bar-chart](https://user-images.githubusercontent.com/83240328/147045068-88f2d450-8768-424f-8dbd-f5a73d306ff8.png)
+<h1 >My skills  <a width="6%" href="https://github.com/hakimov-dev"><img height="40px" width="4%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/dev.png" /> </h1>
 
 <p align="center">
    <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/000000/external-webstorm-an-integrated-development-environment-for-javascript-logo-color-tal-revivo.png"/></a>
    <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/></a>
- <a href="https://www.w3schools.com/whatis/whatis_html.asp"><img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/></a><a href="https://www.w3schools.com/Css/css_intro.asp"><img src="https://img.icons8.com/color/60/000000/css3.png"/><a><a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/></a>![bar-chart](https://user-images.githubusercontent.com/83240328/147044967-82a20c80-bfcc-4585-87bf-e5e90ce58725.png)
+ <a href="https://www.w3schools.com/whatis/whatis_html.asp"><img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/></a><a href="https://www.w3schools.com/Css/css_intro.asp"><img src="https://img.icons8.com/color/60/000000/css3.png"/><a><a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/></a>
 
  <a href="https://daisyui.com/"><img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/60/000000/external-daisy-flowers-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/></a>
  <a href="https://sass-lang.com/"><img src="https://img.icons8.com/color/60/000000/sass-avatar.png"/></a>
