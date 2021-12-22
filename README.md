@@ -4,16 +4,20 @@
 </p>
 
 <!-- About me -->
-  # About me 
+  <h1>About me<a width="6%" href="https://github.com/hakimov-dev"><img width="6%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/book.png" /></a> </h1>
+
 | <a width="80%" href="https://github.com/hakimov-dev"><img width="120%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/code.gif" /> </a> | <a href="https://github.com/hakimov-dev"> <h3>I'm from Uzbekistan and I'm a Frontend (Vue  js) programmer. Welcome to my GitHub page.</h3></a> |
 | ------------- | ------------- |
 
 
-# My skills 
+
+<h1 >My skills  <a width="6%" href="https://github.com/hakimov-dev"><img height="40px" width="4%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/dev.png" /> </h1>![bar-chart](https://user-images.githubusercontent.com/83240328/147045068-88f2d450-8768-424f-8dbd-f5a73d306ff8.png)
+
 <p align="center">
    <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/000000/external-webstorm-an-integrated-development-environment-for-javascript-logo-color-tal-revivo.png"/></a>
    <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/></a>
- <a href="https://www.w3schools.com/whatis/whatis_html.asp"><img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/></a><a href="https://www.w3schools.com/Css/css_intro.asp"><img src="https://img.icons8.com/color/60/000000/css3.png"/><a><a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/></a>
+ <a href="https://www.w3schools.com/whatis/whatis_html.asp"><img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/></a><a href="https://www.w3schools.com/Css/css_intro.asp"><img src="https://img.icons8.com/color/60/000000/css3.png"/><a><a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/></a>![bar-chart](https://user-images.githubusercontent.com/83240328/147044967-82a20c80-bfcc-4585-87bf-e5e90ce58725.png)
+
  <a href="https://daisyui.com/"><img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/60/000000/external-daisy-flowers-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/></a>
  <a href="https://sass-lang.com/"><img src="https://img.icons8.com/color/60/000000/sass-avatar.png"/></a>
  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/60/000000/javascript--v2.png"/></a>
@@ -32,13 +36,15 @@
 <p>
 
 
-# Contact me
+  <h1>Contact me <a  href="https://github.com/hakimov-dev"><img width="3%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/phone.png" /></a> </h1>
+   
+   [![website](https://img.shields.io/badge/-Website-090909?style=for-the-badge&logo=appveyor)](https://https://hakimov.netlify.app/)
  [![Github](https://img.shields.io/badge/-gitHub-090909?style=for-the-badge&logo=gitHub)](https://github.com/hakimov-dev) [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/hakimov_dev) [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/hakimov_dev)
 
   
 
 
-# Github stats
+  <h1>Github stats <a  href="https://github.com/hakimov-dev"><img width="4%" height="36px" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/bar-chart.png" /></a> </h1>
 
 | <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hakimov-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/></a> | <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimov-dev&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
