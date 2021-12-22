@@ -17,7 +17,6 @@
    <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/000000/external-webstorm-an-integrated-development-environment-for-javascript-logo-color-tal-revivo.png"/></a>
    <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/></a>
  <a href="https://www.w3schools.com/whatis/whatis_html.asp"><img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/></a><a href="https://www.w3schools.com/Css/css_intro.asp"><img src="https://img.icons8.com/color/60/000000/css3.png"/><a><a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/></a>
-
  <a href="https://daisyui.com/"><img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/60/000000/external-daisy-flowers-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/></a>
  <a href="https://sass-lang.com/"><img src="https://img.icons8.com/color/60/000000/sass-avatar.png"/></a>
  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/60/000000/javascript--v2.png"/></a>
