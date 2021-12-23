@@ -11,7 +11,7 @@
 
 
 
-<h1 >My skills  <a width="6%" href="https://github.com/hakimov-dev"><img height="40px" width="4%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/dev.png" /> </h1>
+<h1 >My skills  <a width="6%" href="https://github.com/hakimov-dev"><img height="36px" width="4%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/dev.png" /> </h1>
 
 <p align="center">
    <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/000000/external-webstorm-an-integrated-development-environment-for-javascript-logo-color-tal-revivo.png"/></a>
