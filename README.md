@@ -47,5 +47,10 @@
 
 | <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hakimov-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/></a> | <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimov-dev&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
-  
+   
+<p align="center">
+    <a href="https://github.com/hakimov-dev">
+        <img alt="Muhammadamin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hakimov-dev&theme=tokyonight&hide_border=true"/>
+    </a>
+</p>
 
