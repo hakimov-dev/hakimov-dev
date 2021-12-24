@@ -19,6 +19,7 @@
  <a href="https://www.w3schools.com/whatis/whatis_html.asp"><img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/></a><a href="https://www.w3schools.com/Css/css_intro.asp"><img src="https://img.icons8.com/color/60/000000/css3.png"/><a><a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/></a>
  <a href="https://daisyui.com/"><img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/60/000000/external-daisy-flowers-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/></a>
  <a href="https://sass-lang.com/"><img src="https://img.icons8.com/color/60/000000/sass-avatar.png"/></a>
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/60/000000/javascript--v2.png"/></a>
  <a href="https://gulpjs.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png"/></a>
     <a href="https://en.wikipedia.org/wiki/API"><img src="https://img.icons8.com/ios-filled/60/000000/api-settings.png"/></a>
