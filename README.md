@@ -10,7 +10,7 @@
 | ------------- | ------------- |
 
 
-
+<!-- My skills -->
 <h1 >My skills  <a width="6%" href="https://github.com/hakimov-dev"><img height="36px" width="4%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/dev.png" /> </h1>
 
 <p align="center">
@@ -35,7 +35,7 @@
     <a href="https://github.com/hakimov-dev"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/></a>
 <p>
 
-
+<!-- Contact me -->
   <h1>Contact me <a  href="https://github.com/hakimov-dev"><img width="3%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/phone.png" /></a> </h1>
    
    [![website](https://img.shields.io/badge/-Website-090909?style=for-the-badge&logo=appveyor)](https://https://hakimov.netlify.app/)
@@ -43,7 +43,7 @@
 
   
 
-
+<!-- My github Stats -->
   <h1>Github stats <a  href="https://github.com/hakimov-dev"><img width="4%" height="36px" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/bar-chart.png" /></a> </h1>
 
 | <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hakimov-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/></a> | <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimov-dev&layout=compact&theme=tokyonight&hide_border=true" /></a> |
