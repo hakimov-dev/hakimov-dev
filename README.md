@@ -46,7 +46,7 @@
 <!-- My github Stats -->
   <h1>Github stats <a  href="https://github.com/hakimov-dev"><img width="4%" height="36px" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/bar-chart.png" /></a> </h1>
 
-| <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hakimov-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/></a> | <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimov-dev&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hakimov-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/></a> | <a href="https://github.com/akimov-dev"></a> |
 | ------------- | ------------- |
    
 <p align="center">
