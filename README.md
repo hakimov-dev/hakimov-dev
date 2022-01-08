@@ -56,3 +56,4 @@
     </a>
 </p>
 
+   [![Muhammadamins's github activity graph](https://activity-graph.herokuapp.com/graph?username=hakimov-dev&theme=react-dark)](https://github.com/hakimov-dev)
