@@ -47,12 +47,12 @@
 <!-- My github Stats -->
   <h1>Github stats <a  href="https://github.com/hakimov-dev"><img width="4%" height="36px" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/bar-chart.png" /></a> </h1>
 
-| <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hakimov-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/></a> | <a href="https://github.com/akimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimov-dev&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hakimov-dev&show_icons=true&include_all_commits=true&theme=react&hide_border=true"/></a> | <a href="https://github.com/akimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimov-dev&layout=compact&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
    
 <p align="center">
     <a href="https://github.com/hakimov-dev">
-        <img alt="Muhammadamin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hakimov-dev&theme=tokyonight&hide_border=true"/>
+        <img alt="Muhammadamin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hakimov-dev&theme=react&hide_border=true"/>
     </a>
 </p>
 
