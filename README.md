@@ -39,8 +39,8 @@
 <!-- Contact me -->
   <h1>Contact me <a  href="https://github.com/hakimov-dev"><img width="3%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/phone.png" /></a> </h1>
    
-   [![website](https://img.shields.io/badge/-Website-090909?style=for-the-badge&logo=appveyor)](https://https://hakimov.netlify.app/)
- [![Github](https://img.shields.io/badge/-gitHub-090909?style=for-the-badge&logo=gitHub)](https://github.com/hakimov-dev) [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/hakimov_dev) [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/hakimov_dev)
+   [![website](https://img.shields.io/badge/-Website-090909?style=for-the-badge&logo=appveyor)](https://hakimov.netlify.app/)
+ [![Github](https://img.shields.io/badge/-gitHub-090909?style=for-the-badge&logo=gitHub)](https://github.com/hakimov-dev) [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/hakimov_dev) [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/hakimovDev)
 
   
 
