@@ -43,17 +43,3 @@
  [![Github](https://img.shields.io/badge/-gitHub-090909?style=for-the-badge&logo=gitHub)](https://github.com/hakimov-dev) [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/hakimov_dev) [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/hakimovDev) [![twitter](https://img.shields.io/badge/-twitter-090909?style=for-the-badge&logo=twitter)](https://twitter.com/hakimov_dev)
 
   
-
-<!-- My github Stats -->
-  <h1>Github stats <a  href="https://github.com/hakimov-dev"><img width="4%" height="36px" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/bar-chart.png" /></a> </h1>
-
-| <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hakimov-dev&show_icons=true&include_all_commits=true&theme=react&hide_border=true"/></a> | <a href="https://github.com/hakimov-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimov-dev&layout=compact&theme=react&hide_border=true" /></a> |
-| ------------- | ------------- |
-   
-<p align="center">
-    <a href="https://github.com/hakimov-dev">
-        <img alt="Muhammadamin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hakimov-dev&theme=react&hide_border=true"/>
-    </a>
-</p>
-
-   [![Muhammadamins's github activity graph](https://activity-graph.herokuapp.com/graph?username=hakimov-dev&theme=react-dark)](https://github.com/hakimov-dev)
