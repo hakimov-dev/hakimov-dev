@@ -54,6 +54,3 @@
         <img alt="Muhammadamin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hakimov-dev&theme=react&hide_border=true"/>
     </a>
 </p>
-
-   [![Muhammadamins's github activity graph](https://activity-graph.herokuapp.com/graph?username=hakimov-dev&theme=react-dark)](https://github.com/hakimov-dev)
-  
