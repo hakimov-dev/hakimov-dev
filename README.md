@@ -26,6 +26,7 @@
  <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/000000/external-npm-a-package-manager-for-the-javascript-programming-language-logo-color-tal-revivo.png"/></a>
  <a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
  <a href="https://vuejs.org/"><img src="https://img.icons8.com/color/60/000000/vue-js.png"/></a>
+  <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer"><img width="55" src="https://vitejs.dev/logo.svg" alt="Vite logo"></a>
  <a href="https://nuxtjs.org/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></a>
  <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/60/000000/firebase.png"/></a>
   <a href="https://www.php.net/"><img src="https://img.icons8.com/officel/60/000000/php-logo.png"/></a>
