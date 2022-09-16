@@ -14,7 +14,7 @@
 <h1 >My skills  <a width="6%" href="https://github.com/hakimov-dev"><img height="36px" width="4%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/dev.png" /> </h1>
 
 <p align="center">
-   <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/000000/external-webstorm-an-integrated-development-environment-for-javascript-logo-color-tal-revivo.png"/></a>
+   <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.icons8.com/color/65/000000/webstorm.png"/></a>
    <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/></a>
  <a href="https://www.w3schools.com/whatis/whatis_html.asp"><img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/></a><a href="https://www.w3schools.com/Css/css_intro.asp"><img src="https://img.icons8.com/color/60/000000/css3.png"/><a><a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/></a>
  <a href="https://daisyui.com/"><img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/60/000000/external-daisy-flowers-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/></a>
@@ -24,7 +24,7 @@
  <a href="https://gulpjs.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png"/></a>
     <a href="https://en.wikipedia.org/wiki/API"><img src="https://img.icons8.com/ios-filled/60/000000/api-settings.png"/></a>
  <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/000000/external-npm-a-package-manager-for-the-javascript-programming-language-logo-color-tal-revivo.png"/></a>
- <a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
+ <a href="https://jquery.com/"><img src="https://img.icons8.com/ios-filled/50/228BE6/jquery.png"/></a>
  <a href="https://vuejs.org/"><img src="https://img.icons8.com/color/60/000000/vue-js.png"/></a>
   <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer"><img width="55" src="https://vitejs.dev/logo.svg" alt="Vite logo"></a>
  <a href="https://nuxtjs.org/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></a>
