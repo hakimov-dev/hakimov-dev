@@ -29,6 +29,7 @@
   <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer"><img width="55" src="https://vitejs.dev/logo.svg" alt="Vite logo"></a>
  <a href="https://nuxtjs.org/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></a>
  <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/60/000000/firebase.png"/></a>
+ <a href="https://pinia.vuejs.org/"><img src="https://pinia.vuejs.org/logo.svg" alt="pinia js" width="50" height="60"/></a>  
   <a href="https://www.php.net/"><img src="https://img.icons8.com/officel/60/000000/php-logo.png"/></a>
  <a href="https://wordpress.org/"><img src="https://img.icons8.com/fluent/60/000000/wordpress.png"/></a>
    <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/60/000000/figma--v1.png"/></a>
