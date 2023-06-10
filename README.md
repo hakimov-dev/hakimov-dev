@@ -21,6 +21,7 @@
  <a href="https://sass-lang.com/"><img src="https://img.icons8.com/color/60/000000/sass-avatar.png"/></a>
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/60/000000/javascript--v2.png"/></a>
+   <a href="https://www.typescriptlang.org/"><img width="60" height="60" src="https://img.icons8.com/color/60/typescript.png" alt="typescript"/></a>
  <a href="https://gulpjs.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png"/></a>
     <a href="https://en.wikipedia.org/wiki/API"><img src="https://img.icons8.com/ios-filled/60/000000/api-settings.png"/></a>
  <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/000000/external-npm-a-package-manager-for-the-javascript-programming-language-logo-color-tal-revivo.png"/></a>
