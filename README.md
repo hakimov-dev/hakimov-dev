@@ -6,7 +6,7 @@
 <!-- About me -->
   <h1>About me<a width="6%" href="https://github.com/hakimov-dev"><img width="6%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/book.png" /></a> </h1>
 
-| <a width="60%" href="https://github.com/hakimov-dev"><img width="100%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/code.gif" /> </a> | <a href="https://github.com/hakimov-dev"> <h3>I'm from Uzbekistan and I'm a Frontend (Vue  js) programmer. Welcome to my GitHub page.</h3></a> |
+| <a width="60%" href="https://github.com/hakimov-dev"><img width="100%" align="center" src="https://github.com/hakimov-dev/hakimov-dev/blob/main/img/code.gif" /> </a> | <a href="https://github.com/hakimov-dev"> <h3>I'm from Uzbekistan and I'm a Frontend programmer. Welcome to my GitHub page.</h3></a> |
 | ------------- | ------------- |
 
 <!-- My github Stats -->
